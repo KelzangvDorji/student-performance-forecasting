@@ -1,0 +1,8 @@
+Hostname : dpg-d4j0u5i4d50c73f3hbug-a
+Port : 5432
+DB/DB Name: student_forecasting_tool
+Username : student_forecasting_tool_user
+Password : xBGPwygh4YYkj4q9wOPg3dkH0sFJk69s
+Internal DB URL : postgresql://student_forecasting_tool_user:xBGPwygh4YYkj4q9wOPg3dkH0sFJk69s@dpg-d4j0u5i4d50c73f3hbug-a/student_forecasting_tool
+EXternal DB URL : postgresql://student_forecasting_tool_user:xBGPwygh4YYkj4q9wOPg3dkH0sFJk69s@dpg-d4j0u5i4d50c73f3hbug-a.singapore-postgres.render.com/student_forecasting_tool
+PSQL COmmand : PGPASSWORD=xBGPwygh4YYkj4q9wOPg3dkH0sFJk69s psql -h dpg-d4j0u5i4d50c73f3hbug-a.singapore-postgres.render.com -U student_forecasting_tool_user student_forecasting_tool

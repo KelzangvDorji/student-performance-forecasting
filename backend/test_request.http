@@ -1,0 +1,16 @@
+POST http://127.0.0.1:8000/predict
+Content-Type: application/json
+
+{
+  "Semester": 3,
+  "Department": "CSE",
+  "Age": 20,
+  "Gender": "Male",
+  "Attendance_Percentage": 85,
+  "Study_Hours_Per_Week": 12,
+  "Backlogs": 0,
+  "Part_Time_Work": "No",
+  "Previous_CGPA": 8.2
+}
+
+
