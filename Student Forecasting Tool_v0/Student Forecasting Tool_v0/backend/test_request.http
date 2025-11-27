@@ -1,0 +1,15 @@
+### Test Student Prediction API
+POST http://127.0.0.1:8000/predict
+Content-Type: application/json
+
+{
+    "Semester": 5,
+    "Department": "Computer Science",
+    "Age": 21,
+    "Gender": "Male",
+    "Attendance_Percentage": 85,
+    "Study_Hours_Per_Week": 15,
+    "Backlogs": 0,
+    "Part_Time_Work": "No",
+    "Previous_CGPA": 7.5
+}
